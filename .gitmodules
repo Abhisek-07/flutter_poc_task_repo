@@ -1,0 +1,75 @@
+[submodule "Component_Example"]
+	path = Component_Example
+	url = https://github.com/Abhisek-07/Component_Example.git
+	ignore = dirty
+[submodule "bank_user_component"]
+	path = bank_user_component
+	url = https://github.com/Abhisek-07/Component_Example.git
+	ignore = dirty
+[submodule "bus_routes"]
+	path = bus_routes
+	url = https://github.com/Abhisek-07/Bus_Routes_app_flutter.git
+	ignore = dirty
+[submodule "bus_routes_app"]
+	path = bus_routes_app
+	url = https://github.com/Abhisek-07/Bus_Routes_Modified.git
+	ignore = dirty
+[submodule "chat_app"]
+	path = chat_app
+	url = https://github.com/Abhisek-07/Chat_App_Flutter.git
+	ignore = dirty
+[submodule "component_example"]
+	path = component_example
+	url = https://github.com/Abhisek-07/Component_Example.git
+	ignore = dirty
+[submodule "demo_app"]
+	path = demo_app
+	url = https://github.com/Abhisek-07/demo_app_flutter.git
+	ignore = dirty
+[submodule "expense_tracker"]
+	path = expense_tracker
+	url = https://github.com/Abhisek-07/Expense_Tracker_Flutter.git
+	ignore = dirty
+[submodule "favorite_places"]
+	path = favorite_places
+	url = https://github.com/Abhisek-07/Favorites_Places_App_Flutter.git
+[submodule "file_folder_example"]
+	path = file_folder_example
+	url = https://github.com/Abhisek-07/nested_folders.git
+	ignore = dirty
+[submodule "first_app"]
+	path = first_app
+	url = https://github.com/Abhisek-07/First_App_Flutter.git
+	ignore = dirty
+[submodule "meals_app"]
+	path = meals_app
+	url = https://github.com/Abhisek-07/Meals_App_Flutter.git
+	ignore = dirty
+[submodule "meals_app_animations"]
+	path = meals_app_animations
+	url = https://github.com/Abhisek-07/Meals_App_Complete.git
+	ignore = dirty
+[submodule "melos_project"]
+	path = melos_project
+	url = https://github.com/Abhisek-07/melos_project.git
+	ignore = dirty
+[submodule "Multiple-Image-Camera-master"]
+	path = Multiple-Image-Camera-master
+	url = https://github.com/Abhisek-07/Multiple-Image-Camera-master.git
+	ignore = dirty
+[submodule "quiz_app"]
+	path = quiz_app
+	url = https://github.com/Abhisek-07/Quiz_App_Flutter.git
+	ignore = dirty
+[submodule "shopping_app"]
+	path = shopping_app
+	url = https://github.com/Abhisek-07/Shopping_App.git
+	ignore = dirty
+[submodule "storybook_example"]
+	path = storybook_example
+	url = https://github.com/Abhisek-07/StoryBookExample.git
+	ignore = dirty
+[submodule "whitelabel_apps"]
+	path = whitelabel_apps
+	url = https://github.com/Abhisek-07/MelosExample.git
+	ignore = dirty
